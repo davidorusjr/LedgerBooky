@@ -98,31 +98,31 @@ Every page is available in both **Light** and **Dark** mode.
 
 | Light | Dark |
 |---|---|
-| ![Dashboard Light](screenshots/dashboard-light.png) | ![Dashboard Dark](screenshots/dashboard-dark.png) |
+| ![Dashboard Light](Screenshots/dashboard-light.png) | ![Dashboard Dark](screenshots/dashboard-dark.png) |
 
 ### Products
 
 | Light | Dark |
 |---|---|
-| ![Products Light](screenshots/products-light.png) | ![Products Dark](screenshots/products-dark.png) |
+| ![Products Light](Screenshots/products-light.png) | ![Products Dark](screenshots/products-dark.png) |
 
 ### Sales
 
 | Light | Dark |
 |---|---|
-| ![Sales Light](screenshots/sales-light.png) | ![Sales Dark](screenshots/sales-dark.png) |
+| ![Sales Light](Screenshots/sales-light.png) | ![Sales Dark](screenshots/sales-dark.png) |
 
 ### Inventory
 
 | Light | Dark |
 |---|---|
-| ![Inventory Light](screenshots/inventory-light.png) | ![Inventory Dark](screenshots/inventory-dark.png) |
+| ![Inventory Light](Screenshots/inventory-light.png) | ![Inventory Dark](screenshots/inventory-dark.png) |
 
 ### Sales History
 
 | Light | Dark |
 |---|---|
-| ![History Light](screenshots/history-light.png) | ![History Dark](screenshots/history-dark.png) |
+| ![History Light](Screenshots/history-light.png) | ![History Dark](screenshots/history-dark.png) |
 
 ---
 
